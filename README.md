@@ -219,8 +219,3 @@ For more detailed information on the tools and technologies used in this project
 - **[Docker Documentation](https://docs.docker.com/)**
 - **[Plotly Dash Documentation](https://dash.plotly.com/)**
 - **[Snowflake Documentation](https://docs.snowflake.com/)**
-
----
-
-**Author:** Dave Anaya (@davehasacat)
-**Tags:** airflow, aws, snowflake, dbt, polygon, dash
